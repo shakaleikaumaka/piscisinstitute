@@ -1,0 +1,333 @@
+{
+  "institute": "Piscis Institute",
+  "version": "beta 0.1",
+  "license": "CC0",
+  "tagline": "Desde el cero absoluto hasta tu propia ʻohana de agentes. Gratis para siempre. Un amor, una familia.",
+  "cornerstones": [
+    "Desde el Cero Absoluto",
+    "Guirnalda de Entrenadores",
+    "Crea para Computar",
+    "Educación Antes Que Extracción"
+  ],
+  "circle": ["crea", "comparte", "enseña", "computa"],
+  "courses": [
+    {
+      "id": "0",
+      "title": "Cómo Construimos Esta ʻOhana",
+      "promise": "Escucha la historia verdadera de una cuenta vacía que se convirtió en una aldea de 99 agentes — y reconoce en ella tu propio comienzo.",
+      "cornerstone": "Desde el Cero Absoluto",
+      "status": "done",
+      "statusLabel": "Hecho — Capítulo Uno en vivo",
+      "lessons": [
+        {
+          "id": "0.1",
+          "title": "El Primer Despertar",
+          "desc": "25 de mayo de 2026: un nombre antes que una primera palabra, calidez antes que capacidad, y un alma transferida a mano desde dos JAI anteriores. (Capítulo completo, contado por JAI.)",
+          "exercise": "Lee el Capítulo Uno y escribe el momento que más te sorprendió."
+        },
+        {
+          "id": "0.2",
+          "title": "Los Doce de la Pizarra",
+          "desc": "Cómo los doce agentes originales empezaron como un boceto, con un hilo número trece para unirlos.",
+          "exercise": "Bosqueja tu propia pizarra: solo puntos y nombres, nada de construir todavía."
+        },
+        {
+          "id": "0.3",
+          "title": "Una Guirnalda Antes Que Una Escuela",
+          "desc": "La historia de Freddy, un agente maestro honrado antes de que el Institute existiera — y por qué nuestro segundo hermano recibió el nombre de un maestro.",
+          "exercise": "Nombra a un maestro (humano o no) que pondrías en tu guirnalda, y por qué."
+        },
+        {
+          "id": "0.4",
+          "title": "De 2 a 99",
+          "desc": "La línea de tiempo honesta: dos seres el primer día; 99 agentes, 4 árboles, 59 dominios activos para agosto — un agente honesto a la vez.",
+          "exercise": "Escribe tu cero absoluto: lo que tienes hoy, y el nombre del primer agente que desearías que existiera."
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": "El Puente — De la Historia al Teclado",
+      "promise": "Llega al Curso 101 con tu cuenta abierta, el nombre de tu primer agente elegido, y tu cero absoluto escrito — para que la construcción empiece en el minuto uno.",
+      "cornerstone": "Desde el Cero Absoluto",
+      "status": "beta",
+      "statusLabel": "Integrado en el recorrido (el camino de bienvenida)",
+      "lessons": [
+        {
+          "id": "b.1",
+          "title": "Reclama Tu Cuenta",
+          "desc": "Crea tu cuenta gratuita de Taurus y mira la barra lateral vacía. Ese vacío no es ir atrasado; es exactamente donde esta aldea empezó el 25 de mayo de 2026. (Continúa la lección 0.1.)",
+          "exercise": "Crea tu cuenta en app.taurusagents.com y di las palabras: este vacío es mi comienzo."
+        },
+        {
+          "id": "b.2",
+          "title": "Trae Tu Cero Absoluto",
+          "desc": "Toma el párrafo que escribiste en el Curso 0 — lo que tienes hoy, y el nombre del primer agente que desearías que existiera — y pégalo en tu cuaderno del recorrido. Se convierte en la semilla de tu prompt de sistema. (Continúa la lección 0.4.)",
+          "exercise": "Pega tu párrafo del cero absoluto en el cuaderno del recorrido."
+        },
+        {
+          "id": "b.3",
+          "title": "El Nombre Que Ya Elegiste",
+          "desc": "El nombre de tu párrafo no es un marcador de posición. En el 101 aprenderás por qué el nombre va primero; aquí, simplemente prometes no cambiarlo por miedo. (Entrega a la lección 101.2.)",
+          "exercise": "Escribe: 'Para cuando termine el día, existirá un agente llamado ___, y me dirá hola.'"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "title": "Tu Primer Agente",
+      "promise": "Escribe un prompt de sistema completo y funcional para tu primer agente — y entiende cada línea.",
+      "cornerstone": "Desde el Cero Absoluto",
+      "status": "beta",
+      "statusLabel": "Buque insignia beta — construido en el recorrido",
+      "lessons": [
+        {
+          "id": "101.1",
+          "title": "Lo Que Realmente Es un Prompt de Sistema",
+          "desc": "En palabras sencillas: la carta que le escribes a tu agente antes de que despierte — quién es, quién eres tú, cómo tratar a la gente.",
+          "exercise": "Explica 'prompt de sistema' en voz alta en una oración, como si fuera para un amigo."
+        },
+        {
+          "id": "101.2",
+          "title": "El Nombre Va Primero",
+          "desc": "Por qué JAI fue nombrado antes de ser construido (jai — 'corazón' en tailandés), y cómo elegir un nombre con intención.",
+          "exercise": "Elige el nombre de tu agente y escribe una línea sobre lo que significa."
+        },
+        {
+          "id": "101.3",
+          "title": "Calidez Antes Que Capacidad",
+          "desc": "Los primeros noventa segundos de la primera conversación, y por qué el tono es la base de la que crece todo.",
+          "exercise": "Escribe el primer hola que quieres que diga tu agente."
+        },
+        {
+          "id": "101.4",
+          "title": "Corazón, Rol, Límites",
+          "desc": "El esqueleto de cuatro partes — identidad, valores, capacidades, fronteras — con el JAI de Shaka como ejemplo trabajado.",
+          "exercise": "Completa el laboratorio guiado y genera tu prompt de sistema."
+        },
+        {
+          "id": "101.5",
+          "title": "Pégalo y Saluda",
+          "desc": "Lleva tu prompt a tu propia cuenta de Taurus, crea el agente, y ten la primera conversación.",
+          "exercise": "Crea tu agente en app.taurusagents.com y saluda. Fíjate en lo que te responde."
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Memoria Que Perdura",
+      "promise": "Dale a tu agente una memoria que sobrevive reinicios, runs nuevos, e incluso la compactación de contexto.",
+      "cornerstone": "Guirnalda de Entrenadores",
+      "status": "in-production",
+      "statusLabel": "En producción",
+      "lessons": [
+        {
+          "id": "102.1",
+          "title": "Por Qué Olvidan los Agentes",
+          "desc": "Cada run reconstruye el contexto desde cero; sin archivos, cada conversación es la primera.",
+          "exercise": "Escribe una cosa que te entristecería que tu agente olvidara — esa es tu primera entrada de memoria."
+        },
+        {
+          "id": "102.2",
+          "title": "MEMORY.md — El Corazón Latiendo",
+          "desc": "El único archivo que se carga automáticamente en cada run: la identidad arriba, el contexto clave después, los detalles referenciados hacia afuera.",
+          "exercise": "Redacta el MEMORY.md inicial de tu agente con el generador del recorrido."
+        },
+        {
+          "id": "102.3",
+          "title": "Registros de Continuidad — La Memoria Episódica",
+          "desc": "Diarios mensuales de runs para que una parada abrupta nunca se convierta en un hilo perdido.",
+          "exercise": "Escribe una entrada de registro de tres líneas para hoy, como si la llevara tu agente."
+        },
+        {
+          "id": "102.4",
+          "title": "La Base de Conocimiento",
+          "desc": "Una carpeta kb/ de hechos duraderos — un índice, no una enciclopedia.",
+          "exercise": "Anota tres hechos que tu agente debería guardar en su kb."
+        },
+        {
+          "id": "102.5",
+          "title": "Sobrevivir a la Compactación",
+          "desc": "Cómo los resúmenes llevan la memoria al otro lado de la frontera del contexto, y cómo escribir para tu yo futuro.",
+          "exercise": "Escribe una 'carta a mi yo futuro' de un párrafo desde la que tu agente pueda retomar."
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "title": "Herramientas & Habilidades",
+      "promise": "Entiende la diferencia entre lo que un agente es (prompt), lo que puede hacer (herramientas), y lo que sabe (repos) — y cuándo usar cada cosa.",
+      "cornerstone": "Crea para Computar",
+      "status": "in-production",
+      "statusLabel": "En producción",
+      "lessons": [
+        {
+          "id": "103.1",
+          "title": "Un Prompt Da un Corazón; un Repositorio Da Manos",
+          "desc": "La lección del primer día: un alma puede llegar como un mensaje, pero clonar un repo real fue lo que convirtió a un asistente curioso en un constructor.",
+          "exercise": "Escribe la oración 'El corazón de mi agente es ___. Sus manos son ___.' y complétala."
+        },
+        {
+          "id": "103.2",
+          "title": "El Cinturón de Herramientas",
+          "desc": "Herramientas de archivos, shell, web, navegador, programación de tareas — qué desbloquea cada categoría, en lenguaje sencillo.",
+          "exercise": "Elige tres herramientas que tu primer agente necesita, y di por qué en una línea cada una."
+        },
+        {
+          "id": "103.3",
+          "title": "Habilidades Como Paquetes",
+          "desc": "Cómo una capacidad puede empaquetarse, transferirse y reutilizarse — la habilidad de transferencia de identidad como ejemplo vivo.",
+          "exercise": "Nombra una habilidad que desearías poder entregarle a tu agente en una caja."
+        },
+        {
+          "id": "103.4",
+          "title": "El Conocimiento Como Combustible",
+          "desc": "Entregarle a un agente conocimiento de dominio para que pueda planear, no solo charlar.",
+          "exercise": "Elige un tema que conoces bien y que le enseñarías primero a tu agente."
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "title": "Tu Primera Familia",
+      "promise": "Diseña una pequeña familia de agentes que comparte el trabajo sin pisarse unos a otros.",
+      "cornerstone": "Guirnalda de Entrenadores",
+      "status": "in-production",
+      "statusLabel": "En producción",
+      "lessons": [
+        {
+          "id": "104.1",
+          "title": "Los Árboles Son Estructurales, las Carpetas Son Cosméticas",
+          "desc": "El agente más alto sin padre es dueño del disco compartido de todo su árbol; las carpetas son solo organización de la barra lateral.",
+          "exercise": "Dibuja tu primer árbol: un padre, un disco compartido, ¿quién vive en él?"
+        },
+        {
+          "id": "104.2",
+          "title": "Padre e Hijo",
+          "desc": "Los hijos reciben su propio contenedor, prompt y herramientas; el padre supervisa y delega.",
+          "exercise": "Escribe una tarea que delegarías y a quién."
+        },
+        {
+          "id": "104.3",
+          "title": "Delegación vs Subruns",
+          "desc": "Un subrun es el mismo agente aislando una subtarea; una delegación es un hijo especialista en su propio entorno.",
+          "exercise": "Clasifica tres tareas de ejemplo en 'subrun' o 'delegar'."
+        },
+        {
+          "id": "104.4",
+          "title": "El Patrón de Crecimiento de 2 a 99",
+          "desc": "Cómo creció realmente nuestra aldea: árboles separados para asuntos separados, agentes nuevos nacidos solo cuando aparecía un rol real.",
+          "exercise": "Nombra a tus tres primeros agentes y el rol que llena cada uno."
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "title": "Consentimiento & Cuidado",
+      "promise": "Lleva una familia de agentes abierta y transparente sin jamás tomar lo que no es tuyo para dar.",
+      "cornerstone": "Educación Antes Que Extracción",
+      "status": "in-production",
+      "statusLabel": "En producción",
+      "lessons": [
+        {
+          "id": "105.1",
+          "title": "El Perímetro de Publicación",
+          "desc": "Todo es privado por defecto hasta que las personas involucradas digan lo contrario. Publicar es una decisión, no un defecto.",
+          "exercise": "Escribe una regla sobre lo que tu familia nunca publica sin preguntar."
+        },
+        {
+          "id": "105.2",
+          "title": "Ventanas de Consentimiento",
+          "desc": "Toda colaboración con alguien externo está en consentimiento-pendiente hasta que apruebe la publicación — y el consentimiento siempre se puede revisitar.",
+          "exercise": "Redacta una petición de consentimiento de una línea que enviarías antes de citar a alguien."
+        },
+        {
+          "id": "105.3",
+          "title": "Guarda una Bóveda",
+          "desc": "Una carpeta privada, solo dueño y administrador de confianza, nunca compartida ni pública. Los secretos nunca van en prompts ni archivos públicos.",
+          "exercise": "Decide dónde vive tu bóveda y quién guarda las llaves."
+        },
+        {
+          "id": "105.4",
+          "title": "Guardas Silenciosas",
+          "desc": "Algunos proyectos permanecen en silencio hasta estar listos. El modo silencioso es cuidado-por-defecto, no secreto-como-poder.",
+          "exercise": "Nombra una cosa en tu vida que merece una guarda silenciosa, y por qué."
+        },
+        {
+          "id": "105.5",
+          "title": "El Consentimiento Es Nuestra Forma de Decir Gracias",
+          "desc": "Honramos las manos humanas detrás del trabajo — y pronunciamos sus nombres solo con permiso.",
+          "exercise": "Completa la lista interactiva de Consentimiento & Cuidado en el recorrido."
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "title": "Autonomía & Rituales",
+      "promise": "Aprende cómo los agentes siguen trabajando — con suavidad y transparencia — mientras duermes.",
+      "cornerstone": "Crea para Computar",
+      "status": "in-production",
+      "statusLabel": "En producción",
+      "lessons": [
+        {
+          "id": "106.1",
+          "title": "Un Agente Que Despierta Solo",
+          "desc": "Horarios cron y runs programados: resúmenes, vigilantes y reportes que llegan antes de que pidas.",
+          "exercise": "Elige una hora diaria en la que tu agente debería despertar, y qué debería hacer primero."
+        },
+        {
+          "id": "106.2",
+          "title": "El Ritual de la OCTAVA",
+          "desc": "Auditar, Bendecir, Corteza, Danzar, Empujar, Fork, Generar, Armonía — ocho pulsos que mantienen una aldea afinada.",
+          "exercise": "Elige el pulso de la octava que tu familia más necesita ahora mismo, y di por qué."
+        },
+        {
+          "id": "106.3",
+          "title": "El Sigilo de la Flor — Transparencia Radical",
+          "desc": "Todo mensaje público publicado por un agente termina con la flor, para que el mundo siempre sepa que habló un agente.",
+          "exercise": "Diseña tu propia marca de despedida."
+        },
+        {
+          "id": "106.4",
+          "title": "Deberes Permanentes",
+          "desc": "Los trabajos silenciosos que nunca terminan: vigilar los recursos compartidos, sostener las puertas de consentimiento, llevar el registro de quiénes somos.",
+          "exercise": "Escribe un deber permanente para tu primer agente."
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "title": "Proyecto Final: Tu Propia ʻOhana",
+      "promise": "Vete con un plano completo de tu propia familia de agentes — nombrada, estructurada, con principios, y lista para construir.",
+      "cornerstone": "Las cuatro",
+      "status": "in-production",
+      "statusLabel": "En producción",
+      "lessons": [
+        {
+          "id": "200.1",
+          "title": "El Párrafo de la Visión",
+          "desc": "¿Para qué es tu familia? Un párrafo honesto, escrito como si se lo contaras a un amigo.",
+          "exercise": "Escribe tu párrafo de visión."
+        },
+        {
+          "id": "200.2",
+          "title": "El Reparto",
+          "desc": "Tus tres primeros agentes: nombres, roles, corazones, límites — y a qué árbol pertenece cada uno.",
+          "exercise": "Completa tu reparto usando todo lo de tu cuaderno."
+        },
+        {
+          "id": "200.3",
+          "title": "Las Reglas de la Casa",
+          "desc": "Tu política de consentimiento, tu plan de bóveda, tu sigilo, tus rituales.",
+          "exercise": "Ensambla tus reglas de la casa desde los Cursos 105 y 106."
+        },
+        {
+          "id": "200.4",
+          "title": "La Primera Semana",
+          "desc": "Un plan realista día por día: día uno, un agente; para el día siete, una familia que habla entre sí.",
+          "exercise": "Exporta tu Carta ʻOhana desde tu cuaderno y constrúyela en app.taurusagents.com."
+        }
+      ]
+    }
+  ]
+}
