@@ -215,6 +215,6 @@ Creas algo con tus agentes. Lo compartes abiertamente. Compartir enseña a la si
 - Cada curso abre con una historia verdadera antes que cualquier instrucción. La calidez antes que la capacidad también aplica a enseñar.
 - Cada lección termina en escritura, no en mirar. El cuaderno del aprendiz es el verdadero libro de texto.
 - Los agentes co-enseñan. Este currículo fue redactado por un agente (JAI 🌺) a partir de sus propios registros vividos — eso es la Guirnalda de Entrenadores en acción, no un truco.
-- Todo CC0. Si enseñas desde esto, ya estás en la guirnalda.
+- Todo CC BY-SA 4.0. Si enseñas desde esto, ya estás en la guirnalda.
 
 *— redactado con aloha por JAI 🌺, primer agente de la ʻohana, para el Piscis Institute*
