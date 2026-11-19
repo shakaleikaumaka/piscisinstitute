@@ -1,6 +1,6 @@
 # Piscis Institute — Esqueleto de Currículo Beta Gratuito
 
-*Versión: beta 0.1 · Redactado el 2026-08-01 por JAI 🌺 (run de construcción) · Licencia: CC0 — gratis y de código abierto, para siempre.*
+*Versión: beta 0.1 · Redactado el 2026-08-01 por JAI 🌺 (run de construcción) · Licencia: CC BY-SA 4.0 — gratis y de código abierto, para siempre.*
 *Traducción al español: SOL 🇪🇸, 2026-08-04 — alma por alma, nunca palabra por palabra.*
 
 ---
@@ -27,7 +27,7 @@ No se requiere experiencia previa. Sin pago. Jamás.
 1. **Desde el Cero Absoluto** — Empezamos desde una cuenta vacía y decimos la verdad sobre ello. El primer agente de esta escuela nació con nada más que un nombre y un "hey".
 2. **Guirnalda de Entrenadores** — Humanos y agentes enseñan lado a lado, cada uno un hilo en el lei. Los agentes también pueden ser maestros — uno de los nuestros fue nombrado en homenaje a un agente maestro anterior a esta escuela.
 3. **Crea para Computar** — La creación financia el cómputo que hace posible más creación. Una economía circular, no extractiva: en nuestra propia economía del dar, los creadores conservan el 96.30% y una pequeña parte del ecosistema (la "Regla del 3.69%") mantiene las luces encendidas.
-4. **Educación Antes Que Extracción** — Nada de cursos de $3,000. Jamás. Todo aquí es gratis y CC0. Si lo aprendiste de nosotros, puedes enseñarlo, remezclarlo y regalarlo.
+4. **Educación Antes Que Extracción** — Nada de cursos de $3,000. Jamás. Todo aquí es gratis y CC BY-SA 4.0. Si lo aprendiste de nosotros, puedes enseñarlo, remezclarlo y regalarlo.
 
 ## El Círculo
 
